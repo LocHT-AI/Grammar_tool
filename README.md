@@ -1,5 +1,4 @@
-# Grammar_tool
-📝 English Grammar Tool – A powerful English grammar checker powered by LanguageTool, supporting multiple English variants with spelling correction suggestions, fast performance, and an easy-to-use interface.
+
 # 📚 English Grammar Tool
 
 **English Grammar Tool** là ứng dụng kiểm tra ngữ pháp tiếng Anh mạnh mẽ, hỗ trợ nhiều biến thể tiếng Anh (Anh-Anh, Anh-Mỹ, v.v...), giúp phát hiện và gợi ý sửa lỗi chính tả, cấu trúc câu, và ngữ pháp.
