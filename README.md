@@ -25,7 +25,7 @@
 ## 🚀 Cài đặt
 1. Tải file `setup.exe` từ link ở trên.
 2. Chạy `setup.exe` và chọn thư mục cài đặt.
-3. Sau khi cài đặt, chạy `english_grammar.exe` để bắt đầu sử dụng.
+3. Sau khi cài đặt, chạy `grammar_tool.exe` để bắt đầu sử dụng.
 
 ---
 
